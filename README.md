@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Pavel! 👋
 
-<!--
-**Pavel3654/Pavel3654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик. Сейчас я активно учусь и создаю свои первые проекты.
 
-Here are some ideas to get you started:
+## 🚀 Обо мне:
+- 📚 Изучаю: Python, HTML/CSS.
+- 🎯 Моя цель:
+- ⚡ Увлечения: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты:
+- **Языки:**  Python, HTML, CSS
+- **Инструменты:**  VS Code
+
+## 📬 Как со мной связаться:
+- Email: pasapopov465@gmail.com
+
